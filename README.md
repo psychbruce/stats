@@ -1,6 +1,6 @@
 # stats
 
-Useful notes for statistics and data analyses
+Useful notes and personal collections about statistics.
 
 ![](https://img.shields.io/badge/Personal-Collection-success)
 ![](https://img.shields.io/github/license/psychbruce/stats?label=License&color=success)
@@ -10,6 +10,6 @@ Useful notes for statistics and data analyses
 
 
 ## Maintainer
-[Han-Wu-Shuang (Bruce) Bao](https://www.zhihu.com/people/psychbruce/ "Personal profile on Zhihu.com")
+[Han-Wu-Shuang (Bruce) Bao - 包寒吴霜](https://www.zhihu.com/people/psychbruce/ "Personal profile on Zhihu.com")
 
 E-mail: baohws@psych.ac.cn or psychbruce@qq.com
